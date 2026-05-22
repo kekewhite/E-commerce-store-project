@@ -28,12 +28,12 @@ It would be advisable to protect inventory for the top 20 products
 
 
 ## Dashboard
-The excel dashboard can be found [here](https://public.tableau.com/app/profile/amana.ezennia6720/viz/RestaurantOrderAnalysis_17714270602260/Dashboard1).
+The excel dashboard can be found [here](https://github.com/kekewhite/E-commerce-store-project/blob/main/dashboard/ECOMMERCE%20EXCEL%20DASHBOARD.xlsx).
 ![Dashboard](https://github.com/Nickartze/Files/blob/main/Restaurant%20Orders%20Analysis/Restaurant%20Orders%20Dashboard.png)
 
 
 ## Written Code
-The SQL queries used to inspect and clean the data for this analysis can be found here [link](https://github.com/Nickartze/Dashboard-Projects/blob/main/Restaurant%20Orders%20Analysis/Restaurant%20Businees%20DB.sql).
+The python queries used to inspect and clean the data for this analysis can be found here [link](https://github.com/Nickartze/Dashboard-Projects/blob/main/Restaurant%20Orders%20Analysis/Restaurant%20Businees%20DB.sql).
 
 
 ## Assumptions and Caveats:
