@@ -4,7 +4,7 @@ The goal of this project is to analyse the performance of E-commerce orders acro
 ## Dataset Structure
 The dataset consisted of a table including customer ID, prices of items, Description of item, Country of order, Invoice number and Invoice dates.
 
-![DataType](https://github.com/Nickartze/Files/blob/main/Restaurant%20Orders%20Analysis/Restaurant%20Orders%20Dashboard.png)
+![DataType](https://github.com/kekewhite/Online-repository/blob/main/Github%20database/Pictures/Ecommerce%20data%20types.png)
 
 ## Initial Checks
 Checklist
@@ -14,6 +14,11 @@ Column Stats Check
 Nulls
 
 The data in the  E-commerce table contained Null values for a few Item_ids.
+
+
+## Dashboard
+The excel dashboard can be found [here](https://github.com/kekewhite/E-commerce-store-project/blob/main/dashboard/ECOMMERCE%20EXCEL%20DASHBOARD.xlsx).
+![Dashboard](https://github.com/kekewhite/Online-repository/blob/main/Github%20database/Pictures/Ecommerce%20data%20dashboard%20.png)
 
 ## Insights Summary
 The business demonstrates strong sales performance, healthy repeat customer behaviour and strong product demand. However, revenue remains highly concentrated among a few customers, products and the UK market, creating some level of dependency risk for long-term growth.
@@ -28,10 +33,6 @@ It would be advisable to protect inventory for the top 20 products
 • devise a purchase campaign timing towards the midday buying window
 • prepare and secure Q4 stock much earlier.
 
-
-## Dashboard
-The excel dashboard can be found [here](https://github.com/kekewhite/E-commerce-store-project/blob/main/dashboard/ECOMMERCE%20EXCEL%20DASHBOARD.xlsx).
-![Dashboard](https://github.com/Nickartze/Files/blob/main/Restaurant%20Orders%20Analysis/Restaurant%20Orders%20Dashboard.png)
 
 
 ## Written Code
