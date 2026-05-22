@@ -4,6 +4,8 @@ The goal of this project is to analyse the performance of E-commerce orders acro
 ## Dataset Structure
 The dataset consisted of a table including customer ID, prices of items, Description of item, Country of order, Invoice number and Invoice dates.
 
+![DataType](https://github.com/Nickartze/Files/blob/main/Restaurant%20Orders%20Analysis/Restaurant%20Orders%20Dashboard.png)
+
 ## Initial Checks
 Checklist
 Data Type Formatting (Dates, Numbers and Time)
