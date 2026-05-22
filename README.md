@@ -2,7 +2,7 @@
 The goal of this project is to analyse the performance of E-commerce orders across differect countries, to provide insights and bring growth to the business. 
 
 ## Dataset Structure
-The dataset consisted of a table including customer ID, prices of items, Description of item, Country of order, Invoice number and Invoice dates.
+The dataset consisted of a table including Customer ID, Prices of items, Description of item, Country of order, Invoice number and Invoice dates.
 
 ![DataType](https://github.com/kekewhite/Online-repository/blob/main/Github%20database/Pictures/Ecommerce%20data%20types.png)
 
