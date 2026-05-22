@@ -33,13 +33,13 @@ The excel dashboard can be found [here](https://github.com/kekewhite/E-commerce-
 
 
 ## Written Code
-The python queries used to inspect and clean the data for this analysis can be found here [link](https://github.com/Nickartze/Dashboard-Projects/blob/main/Restaurant%20Orders%20Analysis/Restaurant%20Businees%20DB.sql).
+The python queries used to inspect and clean the data for this analysis can be found here [link](https://github.com/kekewhite/E-commerce-store-project/blob/main/notebooks/Ecommerce.ipynb).
 
 
 ## Assumptions and Caveats:
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Missing data is for items not inputted, and orders containing Nulls did not have said item already in.
+* Missing data were not analysed, and orders with Customer IDs containing Nulls were not analysed.
  
-* Meals were thought of as either Full or Side meals as they were not stated in the Menu
+*Duplicate orders were not analysed
  
