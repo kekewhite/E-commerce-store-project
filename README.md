@@ -1,1 +1,45 @@
-# E-commerce-store-project
+# E-commerce-store Order Analysis - Project Overview
+The goal of this project is to analyse the performance of E-commerce orders across differect countries, to provide insights and bring growth to the business. 
+
+## Dataset Structure
+The dataset consisted of a table including customer ID, prices of items, Description of item, Country of order, Invoice number and Invoice dates.
+
+## Initial Checks
+Checklist
+Data Type Formatting (Dates, Numbers and Time)
+Removing Duplicates
+Column Stats Check
+Nulls
+
+The data in the  E-commerce table contained Null values for a few Item_ids.
+
+## Insights Summary
+The business demonstrates strong sales performance, healthy repeat customer behaviour and strong product demand. However, revenue remains highly concentrated among a few customers, products and the UK market, creating some level of dependency risk for long-term growth.
+The business generated approximately $8.89M in revenue from about 18.5k items sold across 3.8k orders and 4.3k customers. The store shows strong repeat purchase behaviour with an average of 4.3 orders per customer, indicating healthy customer retention and engagement.
+
+The United Kingdom contributed the majority of total revenue with approximately $7.29M, making it the strongest market by both sales and order volume.
+
+## Recommendations
+While some orders contain unknown items, they have been excluded from the analysis breakdown, but are shown in the tables and orders trend analysis. 
+It would be advisable to protect inventory for the top 20 products
+• build a VIP watchlist for the top revenue customers
+• devise a purchase campaign timing towards the midday buying window
+• prepare and secure Q4 stock much earlier.
+
+
+## Dashboard
+The excel dashboard can be found [here](https://public.tableau.com/app/profile/amana.ezennia6720/viz/RestaurantOrderAnalysis_17714270602260/Dashboard1).
+![Dashboard](https://github.com/Nickartze/Files/blob/main/Restaurant%20Orders%20Analysis/Restaurant%20Orders%20Dashboard.png)
+
+
+## Written Code
+The SQL queries used to inspect and clean the data for this analysis can be found here [link](https://github.com/Nickartze/Dashboard-Projects/blob/main/Restaurant%20Orders%20Analysis/Restaurant%20Businees%20DB.sql).
+
+
+## Assumptions and Caveats:
+Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+
+* Missing data is for items not inputted, and orders containing Nulls did not have said item already in.
+ 
+* Meals were thought of as either Full or Side meals as they were not stated in the Menu
+ 
